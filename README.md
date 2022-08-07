@@ -1,3 +1,5 @@
+![Pong-x](pong-x.jpg)
+
 # PONG-x
 
 ## Dependencies:
