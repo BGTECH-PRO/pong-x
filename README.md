@@ -4,11 +4,13 @@
 
 ## Dependencies:
 
-1. Python v3.x
-2. turtle
-3. playsound
+- Python v3.x
 
-This is multiplayer pong game built on the turtle module. Two plays can play at a time. You can simply run the file to play the game. First pip install the turtle package to the game.
+## Packages:
+- turtle
+- playsound
+
+This is multiplayer pong game built on the turtle module. Two plays can play at a time. You can run the file to play the game, but you will need to pip install turtle and playsound. Otherwise click on the included executable.
 
 ## Project setup
 ```sh
@@ -45,4 +47,4 @@ Here you have the option of installing the executable. Make sure you have your s
 ```sh
 git clone git@github.com:BGTECH-PRO/pong-x.git && cd pong-x
 ```
-Now you can click on the executable named main and enjoy pong.
+Now you can click on the executable named *main* and enjoy pong.
