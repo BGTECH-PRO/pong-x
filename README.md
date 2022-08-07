@@ -1,4 +1,4 @@
-# PONG GAME
+# PONG-x
 
 ## Dependencies:
 
@@ -46,8 +46,6 @@ deactivate
 	To move paddle up press 'UP_ARROW'
 	To move paddle down press 'DOWN_ARROW'
 
-### Game Start Window
-
-![](Start_Point.png)
+## Finish making executable by adding directions for executable installation to path
 
 
