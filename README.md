@@ -38,13 +38,13 @@ deactivate
 
 #### For Player 1:
 
-	To move paddle up press 'A'
-	To move paddle down press 'Z'
+To move paddle up press 'A'
+To move paddle down press 'Z'
 
 #### For Player 2:
 
-	To move paddle up press 'UP_ARROW'
-	To move paddle down press 'DOWN_ARROW'
+To move paddle up press 'UP_ARROW'
+To move paddle down press 'DOWN_ARROW'
 
 ## Play as an executable
 
