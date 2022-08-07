@@ -48,9 +48,9 @@ deactivate
 
 ## Play as an executable
 
-	You the option of installing the executable on Linux. Make sure you have your ssh keys set up with github. Now we can clone the repo.
+Here you have the option of installing the executable. Make sure you have your ssh keys set up with github.
 
 ```sh
 git clone git@github.com:BGTECH-PRO/pong-x.git && cd pong-x
 ```
-Now you can click on the executable and enjoy pong.
+Now you can click on the executable named main and enjoy pong.
