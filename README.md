@@ -12,14 +12,6 @@ This is multiplayer pong game built on the turtle module. Two plays can play at 
 ```sh
 pip install turtle playsound
 ```
-### Make env for each bot set
-```sh
-python3 -m venv env
-```
-### Env activation for both env
-```sh
-source env/bin/activate
-```
 ### runs code
 ```sh
 python main.py
@@ -27,10 +19,6 @@ python main.py
 ### kills running code
 ```sh
 Ctrl + C
-```
-### Env deactivation
-```sh
-deactivate
 ```
 ## Controls
 
